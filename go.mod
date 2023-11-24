@@ -1,4 +1,4 @@
-module gofile
+module github.com/chmzy/xk6-file
 
 go 1.20
 
